@@ -31,3 +31,11 @@ input{
 .addOption{
   margin-top: 20px;
 }
+
+.resultSection{
+  height: 300px;
+  font-size: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
